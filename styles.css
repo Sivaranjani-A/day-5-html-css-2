@@ -46,3 +46,9 @@ h3{
     flex-wrap: wrap;
     padding: 10px 0px;
 }
+.div-left img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+
+}
